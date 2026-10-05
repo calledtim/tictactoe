@@ -1,5 +1,5 @@
 Tic-Tac-Toe (Spieler X beginnt, dann O; abwechselnd ein "-" durch X/O ersetzen)
 
-X - -
-- O -
-- - X
+- - -
+- - -
+- - -
